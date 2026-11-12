@@ -1,0 +1,1 @@
+# ci-cd-pipeline\n\nДемо CI/CD: black, mypy, pytest, сборка Docker-образа и публикация в GHCR.\n
